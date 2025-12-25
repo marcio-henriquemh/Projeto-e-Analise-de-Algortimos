@@ -33,6 +33,6 @@ Cada algoritmo conta com:
 
 📂 Código:
 ```text
-/insertion-sort
+/Analise de Algoritmos
     ├── insertion_sort.c   (ou .py, .java, etc.)
     └── README.md
